@@ -1,0 +1,10 @@
+string = "Hello, World!"
+integer = 67
+floating_point = 67.5
+boolean = True
+complex_number = 3 + 5j
+list_data = ["apple", "banana", "cherry"]
+tuple_data = ("apple", "banana", "cherry")
+set_data = {"apple", "banana", "cherry"}
+dictionary_data = {"name": "John", "age": 30}
+range_data = range(6)
